@@ -18,8 +18,8 @@ const startPointInterval = () => {
     clearInterval(pointInterval);
     setPointClick(point);  
     pointInterval = setInterval(() => {
-        setSize(point, getRandomNumber(40,70));
-        movePoint(point, getRandomNumber(100,600), getRandomNumber(100,600));
+        setSize(point, getRandomNumber(50,100));
+        movePoint(point, getRandomNumber(100,1000), getRandomNumber(100,1000));
     }, 2500);
 };
 
