@@ -1,3 +1,3 @@
 # osu
 
-[PLAY]('https://eminpetlaca.github.io/osu/')
+[PLAY] ('https://eminpetlaca.github.io/osu/')
